@@ -1,5 +1,5 @@
 .btn-outline-dark {
-    background-color: #666a86;
+    background-color: #464F51;
     border: none;
     color: white;
     padding: 16px 32px;
@@ -12,14 +12,34 @@
 
 .btn-outline-dark:hover {
     opacity: 1;
-    background-color: #788aa3
+    background-color: #A15E49;
 }
 
 body {
-    background-color: #f7f7f7;
+    background: hsla(0, 0%, 97%, 1);
+
+    background: linear-gradient(-90deg, hsla(0, 0%, 97%, 1) 0%, hsla(211, 58%, 79%, 1) 100%);
+
+    background: -moz-linear-gradient(-90deg, hsla(0, 0%, 97%, 1) 0%, hsla(211, 58%, 79%, 1) 100%);
+
+    background: -webkit-linear-gradient(-90deg, hsla(0, 0%, 97%, 1) 0%, hsla(211, 58%, 79%, 1) 100%);
+
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#F7F7F7", endColorstr="#ABC9E9", GradientType=1 );
 }
 
 .feature-icons {
     width: 50px;
     height: 50px;
+}
+
+.btn-search {
+    background-color: #464F51;
+    border: none;
+    color: white;
+    text-align: center;
+    transition: 0.3s;
+}
+
+.btn-search:hover {
+    background-color: #A15E49;
 }
