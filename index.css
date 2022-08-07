@@ -18,3 +18,8 @@
 body {
     background-color: #f7f7f7;
 }
+
+.feature-icons {
+    width: 50px;
+    height: 50px;
+}
