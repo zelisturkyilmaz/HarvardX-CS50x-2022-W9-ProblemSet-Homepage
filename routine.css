@@ -56,6 +56,6 @@ body {
     border: none;
 }
 
-.bi-calendar-date {
+.bi-calendar-date, .bi-trash3-fill, .bi-pencil-square {
     color: black;
 }
