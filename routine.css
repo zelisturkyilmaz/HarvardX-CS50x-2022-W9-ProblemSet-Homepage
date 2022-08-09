@@ -51,3 +51,7 @@ body {
 .text-morning-title {
     text-decoration: none;
 }
+
+.list-group-item {
+    border: none;
+}
