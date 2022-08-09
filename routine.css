@@ -59,3 +59,32 @@ body {
 .bi-calendar-date, .bi-trash3-fill, .bi-pencil-square {
     color: black;
 }
+
+footer {
+    background-color: black;
+    color: rgba(255, 255, 255, 0.507);
+}
+
+.bi-google-play {
+    color: white;
+}
+
+.bi-apple {
+    color: white;
+}
+
+.copyright-text {
+    color: rgba(255, 255, 255, 0.507);
+}
+
+.copyright-text:hover {
+    color: #A15E49;
+}
+
+.nav-link {
+    color: rgba(255, 255, 255, 0.507);
+  }
+  
+.nav-link:hover {
+    color: #A15E49;
+  }
