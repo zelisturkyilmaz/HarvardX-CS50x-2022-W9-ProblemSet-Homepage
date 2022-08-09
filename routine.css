@@ -55,3 +55,7 @@ body {
 .list-group-item {
     border: none;
 }
+
+.bi-calendar-date {
+    color: black;
+}
