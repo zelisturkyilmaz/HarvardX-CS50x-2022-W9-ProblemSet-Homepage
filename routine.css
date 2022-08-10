@@ -56,7 +56,9 @@ body {
     border: none;
 }
 
-.bi-calendar-date, .bi-trash3-fill, .bi-pencil-square {
+.bi-calendar-date,
+.bi-trash3-fill,
+.bi-pencil-square {
     color: black;
 }
 
@@ -83,8 +85,22 @@ footer {
 
 .nav-link {
     color: rgba(255, 255, 255, 0.507);
-  }
-  
+}
+
 .nav-link:hover {
     color: #A15E49;
-  }
+}
+
+.login-btn {
+    background-color: #A15E49;
+}
+
+.login-btn:hover {
+    background-color: #A15E49;
+}
+
+#login-btn-link {
+    background-color: #A15E49;
+    color: white;
+    text-decoration: none;
+}

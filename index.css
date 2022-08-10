@@ -72,3 +72,18 @@ footer {
 .nav-link:hover {
     color: #A15E49;
   }
+
+.login-btn {
+    background-color: #A15E49;
+}
+
+.login-btn:hover {
+    background-color: #A15E49;
+}
+
+#login-btn-link {
+    background-color: #A15E49;
+    color: white;
+    text-decoration: none;
+}
+
