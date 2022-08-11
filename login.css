@@ -1,20 +1,3 @@
-.btn-outline-dark {
-    background-color: #464F51;
-    border: none;
-    color: white;
-    padding: 16px 32px;
-    text-align: center;
-    font-size: 16px;
-    margin: 4px 2px;
-    opacity: 0.6;
-    transition: 0.3s;
-}
-
-.btn-outline-dark:hover {
-    opacity: 1;
-    background-color: #A15E49;
-}
-
 body {
     background: hsla(0, 0%, 97%, 1);
 
@@ -25,11 +8,6 @@ body {
     background: -webkit-linear-gradient(-90deg, hsla(0, 0%, 97%, 1) 0%, hsla(211, 58%, 79%, 1) 100%);
 
     filter: progid: DXImageTransform.Microsoft.gradient(startColorstr="#F7F7F7", endColorstr="#ABC9E9", GradientType=1);
-}
-
-.feature-icons {
-    width: 50px;
-    height: 50px;
 }
 
 footer {
@@ -53,15 +31,8 @@ footer {
     color: #A15E49;
 }
 
-.nav-link {
-    color: rgba(255, 255, 255, 0.507);
-  }
-  
-.nav-link:hover {
-    color: #A15E49;
-  }
 
-.login-btn {
+  .login-btn {
     background-color: #A15E49;
 }
 
@@ -77,10 +48,8 @@ footer {
     background-color: #A15E49;
 }
 
-#login-btn-link {
+#login-btn-link1 {
     background-color: #A15E49;
     color: white;
     text-decoration: none;
 }
-
-
