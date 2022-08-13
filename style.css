@@ -1,4 +1,4 @@
-.btn-outline-dark {
+.btn-hero-cta {
     background-color: #464F51;
     border: none;
     color: white;
@@ -10,7 +10,7 @@
     transition: 0.3s;
 }
 
-.btn-outline-dark:hover {
+.btn-hero-cta:hover {
     opacity: 1;
     background-color: #A15E49;
 }
@@ -53,35 +53,39 @@ footer {
     color: #A15E49;
 }
 
-.nav-link {
+.tcaLinks {
     color: rgba(255, 255, 255, 0.507);
   }
-  
-.nav-link:hover {
-    color: #A15E49;
-  }
 
-.login-btn {
-    background-color: #A15E49;
+.tcaLinks:hover {
+    color: #A15E49;
 }
+
 
 .login-btn:link {
-    background-color: #A15E49;
-}
-
-.login-btn:hover {
-    background-color: #A15E49;
-}
-
-.login-btn:active {
-    background-color: #A15E49;
-}
-
-#login-btn-link {
     background-color: #A15E49;
     color: white;
     text-decoration: none;
 }
+
+.login-btn:visited {
+    background-color: #A15E49;
+    color: white;
+    text-decoration: none;
+}
+
+.login-btn:hover {
+    background-color: #A15E49;
+    color: white;
+    text-decoration: none;
+}
+
+.login-btn:active {
+    background-color: #A15E49;
+    color: white;
+    text-decoration: none;
+}
+
 
 
 .btn-morning-add {
