@@ -84,3 +84,40 @@ footer {
 }
 
 
+.btn-morning-add {
+    background-color: #464F51;
+    border: none;
+    color: white;
+    text-align: center;
+    transition: 0.3s;
+}
+
+.btn-morning-add:hover {
+    background-color: #A15E49
+}
+
+.btn-search {
+    background-color: #464F51;
+    border: none;
+    color: white;
+    text-align: center;
+    transition: 0.3s;
+}
+
+.btn-search:hover {
+    background-color: #A15E49;
+}
+
+.text-morning-title {
+    text-decoration: none;
+}
+
+.list-group-item {
+    border: none;
+}
+
+.bi-calendar-date,
+.bi-trash3-fill,
+.bi-pencil-square {
+    color: black;
+}
