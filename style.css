@@ -125,3 +125,44 @@ footer {
 .bi-pencil-square {
     color: black;
 }
+
+
+.morning-list-item {
+    cursor: pointer;
+    position: relative;
+    padding: 12px 8px 12px 40px;
+    font-size: 18px;
+    transition: 0.2s;
+    border-radius: 15px;
+}
+
+.morning-list-item:hover {
+    background: #93B7BE;
+    color: white;
+}
+
+.deleteListItem {
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 12px 16px 12px 16px;
+    border-radius: 15px;
+  }
+
+  .deleteListItem:hover {
+    color: red;
+  }
+
+  .night-list-item {
+    cursor: pointer;
+    position: relative;
+    padding: 12px 8px 12px 40px;
+    font-size: 18px;
+    transition: 0.2s;
+    border-radius: 15px;
+}
+
+.night-list-item:hover {
+    background: #93B7BE;
+    color: white;
+}
